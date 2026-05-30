@@ -18,8 +18,8 @@ export const cvData = {
     initials: "MJ",
     cv: "/CV-Manel-Jlassi.pdf",
     social: {
-      github: "https://github.com/",
-      linkedin: "https://www.linkedin.com/in/manel-jlassi5b4874300",
+      github: "https://github.com/ManelJlassi",
+      linkedin: "https://www.linkedin.com/in/manel-jlassi-5b4874300/",
       email: "mailto:maneljlassi2507@gmail.com",
     },
   },
